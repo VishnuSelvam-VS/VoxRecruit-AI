@@ -1,0 +1,6 @@
+{
+  "name": "VoxRecruit AI",
+  "description": "An interactive, voice-first Placement SaaS Suite supporting custom company benchmarks, raw speech audio audit, resume parsing context, and rolling learning curves.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
